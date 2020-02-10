@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/home/lukec/venv/bin/python",
+    "cSpell.words": [
+        "keras",
+        "mnist",
+        "numpy"
+    ]
+}
